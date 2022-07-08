@@ -12,12 +12,14 @@ int main()
 	bool teste_c = 10 != 11; // 10 é diferente de 11 (TRUE)
 	bool teste_d = 10 == 11; // 10 é igual a 11 (FALSE)
 	bool teste_e = 10 >= 10; // 10 é maior ou igual a 10 (TRUE)
+	bool teste_f = '2' == 2; // '2' é igual a 2 (FALSE)
 	
 	cout << teste_a << endl; 
 	cout << teste_b << endl;  
 	cout << teste_c << endl;
 	cout << teste_d << endl; 
 	cout << teste_e << endl;
+	cout << teste_f;
 
     return 0;
 }

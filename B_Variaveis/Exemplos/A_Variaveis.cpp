@@ -5,9 +5,9 @@ using namespace std;
 int main(){
 	
 	// Variáveis do mesmo tipo podem ser declaradas na mesma linha
-	int numero_a = 10, numero_b = 20, soma; 
+	int operando_a = 10, operando_b = 20, soma; 
 	
-	soma = numero_a + numero_b;
+	soma = operando_a + operando_b;
 	
 	// Isso é uma concatenação 
 	cout << "A soma vale: " << soma; 
