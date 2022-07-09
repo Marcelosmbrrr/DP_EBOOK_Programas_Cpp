@@ -1,2 +1,2 @@
 # Direto ao Ponto: Fundamentos da programação com a linguagem C++
-Programas criados ao longo do ebook sobre os fundamentos da lógica de programação com C++
+Exemplos e gabarito dos desafios contidos no Ebook sobre os fundamentos da lógica de programação com C++.
